@@ -1,3 +1,5 @@
+//VERSION1
+
 const matterContainer = document.querySelector("#matter-container");
 const THICCNESS = 60;
 
@@ -10,10 +12,6 @@ var Engine = Matter.Engine,
 
 // create an engine
 var engine = Engine.create();
-// create an engine again
-var engine = Engine.create();
-
-//edit haha
 
 // create a renderer
 var render = Render.create({
