@@ -10,6 +10,8 @@ var Engine = Matter.Engine,
 
 // create an engine
 var engine = Engine.create();
+// create an engine again
+var engine = Engine.create();
 
 //edit haha
 
